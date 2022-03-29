@@ -11,6 +11,8 @@ Power[220 volts] --> Relays
 Relays --> Lights[Lights]
 ```
 
+10 buttones, 8 relays.
+
 ## What I learned with this project:
 - Writing code and uploading it to the microcontroller.
 - Working with 220 volt inputs to light lamps.
