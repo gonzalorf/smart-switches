@@ -15,3 +15,8 @@ Relays --> Lights[Lights]
 - Writing code and uploading it to the microcontroller.
 - Working with 220 volt inputs to light lamps.
 - The Debounce concept and how to handle it: https://www.arduino.cc/en/Tutorial/BuiltInExamples/Debounce/
+
+
+Demo video:
+
+[![Watch the video](https://github.com/gonzalorf/smart-switches/blob/main/demo.webp)](https://github.com/gonzalorf/smart-switches/blob/main/demo.webp)
