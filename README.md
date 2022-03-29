@@ -17,7 +17,7 @@ Relays --> PowerConnector[Power Connector]
 
 10 buttons (pins 2-11 as inputs with pullup), 8 relays (pins 12-19 as outputs). 
 
-## What I learned with this project:
+## What I learned from this project:
 - Writing code and uploading it to the microcontroller.
 - Working with 220 volt inputs to light lamps or activate power connectors.
 - Basic electronic.
