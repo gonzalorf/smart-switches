@@ -11,7 +11,7 @@ Power[220 volts] --> Relays
 Relays --> Lights[Lights]
 ```
 
-10 buttones, 8 relays.
+10 buttons (pins 2-11 as inputs with pullup), 8 relays (pins 12-19 as outputs). 
 
 ## What I learned with this project:
 - Writing code and uploading it to the microcontroller.
