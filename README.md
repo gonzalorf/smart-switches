@@ -5,7 +5,7 @@ This is the first automation project for my home. It will be extended to support
 
 ```mermaid
 flowchart LR
-Switches[Buttons] --> Arduino[ArduinoNano]
+Switches[Buttons] --> Arduino[Arduino Nano]
 Arduino --> Relays[Relays]
 Power[220 volts] --> Relays
 Relays --> Lights[Lights]
