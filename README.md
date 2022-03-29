@@ -14,6 +14,7 @@ Relays --> Lights[Lights]
 ## What I learned with this project:
 - Writing code and uploading it to the microcontroller.
 - Working with 220 volt inputs to light lamps.
+- Basic electronic.
 - The Debounce concept and how to handle it: https://www.arduino.cc/en/Tutorial/BuiltInExamples/Debounce/
 
 
