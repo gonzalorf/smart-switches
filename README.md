@@ -4,7 +4,7 @@ Relays control to turn the lights on or off in my house.
 This is the first automation project for my home. It will be extended to support motion sensors and other features.
 
 ## What's so "smart" about this project?
-I can reasign the function of any button. One single button could light more than one lamp, or a power connector could be activated from more than one buttons whithout permanent wiring changes
+I can reasign the function of any button only by software. One single button could light more than one lamp, or a power connector could be activated from more than one buttons whithout permanent wiring changes
 
 ```mermaid
 flowchart LR
